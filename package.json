@@ -1,0 +1,23 @@
+{
+  "name": "travel-project",
+  "version": "1.0.0",
+  "description": "Site created using different packages and NPM to handdle them though Node.Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lostmart/travel-project.git"
+  },
+  "author": "Martin Pedraza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lostmart/travel-project/issues"
+  },
+  "homepage": "https://github.com/lostmart/travel-project#readme",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "normalize.css": "^5.0.0"
+  }
+}
